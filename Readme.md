@@ -5,9 +5,11 @@
 Voici ceux que j'ai relevés et/ou proposés pour accompagner cette démarche :
 
 1. [Afficheur numérique à sept segments][7-segment]
+1. [Chronomètre][stopwatch]
 1. [Implémentation d'une machine de Turing][turing-machine]
 
 
 [docstring]:      https://www.docstring.fr
 [7-segment]:      https://github.com/steph-d3v/7-segment
+[stopwatch]:      https://github.com/steph-d3v/stopwatch
 [turing-machine]: https://github.com/steph-d3v/turing-machine
