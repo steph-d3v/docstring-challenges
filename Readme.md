@@ -10,6 +10,7 @@ Voici ceux que j'ai proposés et/ou relevés pour accompagner cette démarche :
 1. [Matrix Rain][matrix-rain]
 1. [Snake Game][snake-curses]
 1. [Codeur / Décodeur de Morse][morse-codec]
+1. [Problème des N-Reines][n-queens]
 
 
 [docstring]:      https://www.docstring.fr
@@ -19,3 +20,4 @@ Voici ceux que j'ai proposés et/ou relevés pour accompagner cette démarche :
 [matrix-rain]:    https://github.com/steph-d3v/matrix-rain
 [snake-curses]:   https://github.com/steph-d3v/snake-with-curses
 [morse-codec]:    https://github.com/steph-d3v/morse-codec
+[n-queens]:       https://github.com/steph-d3v/n-queens
