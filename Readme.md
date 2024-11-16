@@ -9,6 +9,7 @@ Voici ceux que j'ai proposés et/ou relevés pour accompagner cette démarche :
 1. [Machine de Turing][turing-machine]
 1. [Matrix Rain][matrix-rain]
 1. [Snake Game][snake-curses]
+1. [Codeur / Décodeur de Morse][morse-codec]
 
 
 [docstring]:      https://www.docstring.fr
@@ -17,3 +18,4 @@ Voici ceux que j'ai proposés et/ou relevés pour accompagner cette démarche :
 [turing-machine]: https://github.com/steph-d3v/turing-machine
 [matrix-rain]:    https://github.com/steph-d3v/matrix-rain
 [snake-curses]:   https://github.com/steph-d3v/snake-with-curses
+[morse-codec]:    https://github.com/steph-d3v/morse-codec
